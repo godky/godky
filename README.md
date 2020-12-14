@@ -7,7 +7,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🎓 @ HuNan University </br>  
+🎓 @Anhui University Of Science & Technology </br>  
 📰 Blog:  [godky's Blog](https://z98k.cn/) </br>  
 :computer: CSDN: [godky's CSDN](https://blog.csdn.net/a357951314?spm=1010.2135.3001.5113)
 - 🔭 I’m currently working on upgrading framework of company
