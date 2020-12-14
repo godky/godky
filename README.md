@@ -9,7 +9,7 @@
 -->
 🎓 @ HuNan University </br>  
 📰 Blog:  [godky's Blog](https://z98k.cn/) </br>  
-:computer: Stack Overflow：[MaxWell's Stack Overflow](https://stackoverflow.com/users/14727509/maxwell)
+:computer: CSDN: [godky's CSDN](https://blog.csdn.net/a357951314?spm=1010.2135.3001.5113)
 - 🔭 I’m currently working on upgrading framework of company
 - 🌱 I’m currently learning Vue3
 - 📫 How to reach me: zhkmail@foxmail.com
