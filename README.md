@@ -8,7 +8,7 @@
 - ⚡ Fun fact: ...
 -->
 - 🎓 @Anhui University Of Science & Technology </br>  
-- 📰 Blog:  [godky's Blog](https://z98k.cn/) </br>  
+- 📰 Blog:  [godky's Blog](https://github.com/godky/blog/issues) </br>  
 - :computer: CSDN: [godky's CSDN](https://blog.csdn.net/a357951314?spm=1010.2135.3001.5113)
 - 🔭 I’m currently working on upgrading framework of company
 - 🌱 I’m currently learning Vue3
